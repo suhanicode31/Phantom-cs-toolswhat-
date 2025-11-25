@@ -16,7 +16,7 @@ Built primarily to showcase clean, lightweight **Front-End Development** skills.
 - **Languages:** HTML5, CSS3 (Vanilla)
 
 ## Status
-- **Live Deployment:** [PASTE YOUR VERCEL URL HERE AFTER DEPLOYMENT]
+- **Live Deployment:** https://phantom-cs-tools.vercel.app
 
 ---
 *Created by PhantomCS Dev.*
