@@ -1,0 +1,57 @@
+body {
+    background-color: #000000; /* Solid Black Background */
+    color: #f0f0f0; /* Light text */
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 500px;
+    text-align: center;
+    padding: 20px;
+}
+
+.title {
+    color: #DC143C; /* Crimson Red for the title */
+    font-size: 2em;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    margin-bottom: 40px;
+    color: #a0a0a0;
+}
+
+.button {
+    display: block;
+    padding: 15px 20px;
+    margin: 15px 0;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    /* Base Button Style */
+    background-color: #222222; 
+    color: #f0f0f0;
+    border: 1px solid #444444;
+}
+
+.button:hover {
+    background-color: #333333;
+}
+
+/* Specific Style for the Primary (Money) Button */
+.primary-button {
+    background-color: #DC143C; /* Crimson Red */
+    border-color: #FF4500;
+    color: #FFFFFF;
+}
+
+.primary-button:hover {
+    background-color: #FF4500; /* Brighter red on hover */
+}
